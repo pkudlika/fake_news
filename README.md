@@ -1,6 +1,5 @@
 # fake_news_detector
 
-
 1.Download the *google cloud sdk :https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
 
